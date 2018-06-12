@@ -11,3 +11,10 @@
 .button-text {
   font-size: 1.8em;
 }
+
+.button-text span {
+  display: block;
+  font-size: 40%;
+  font-weight: lighter;
+  font-style: italic;
+}
