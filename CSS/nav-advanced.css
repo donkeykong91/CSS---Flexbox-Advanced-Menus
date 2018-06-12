@@ -1,5 +1,6 @@
 /* Styles for Advanced Menu */
 .advanced-nav li a {
+  width: 100%;
   display: flex;
   justify-content: flex-start;
 }
