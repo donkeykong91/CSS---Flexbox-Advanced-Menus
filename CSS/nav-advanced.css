@@ -1,5 +1,13 @@
 /* Styles for Advanced Menu */
-.advanced nav li a {
+.advanced-nav li a {
   display: flex;
   justify-content: flex-start;
+}
+
+.icon {
+  font-size: 1.8em;
+}
+
+.button-text {
+  font-size: 1.8em;
 }
