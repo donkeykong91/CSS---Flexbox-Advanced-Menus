@@ -29,5 +29,6 @@
 
   .advanced-nav li {
     flex: 1 0 12em;
+    display: flex;
   }
 }
